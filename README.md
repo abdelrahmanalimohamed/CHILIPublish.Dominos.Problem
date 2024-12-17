@@ -1,6 +1,6 @@
 # Circular Domino Chain Challenge 🚀
 
-## A Task for CHILI publish
+## A Task for CHILI Publish Company
 ## Problem Description
 
  A circular domino chain is an arrangement where:
