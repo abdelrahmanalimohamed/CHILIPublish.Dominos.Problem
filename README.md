@@ -116,7 +116,7 @@ class DominoCircle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/circular-domino-chain.git
+   git clone https://github.com/abdelrahmanalimohamed/circular-domino-chain.git
    cd circular-domino-chain
    ```
 
